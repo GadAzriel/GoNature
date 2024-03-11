@@ -11,6 +11,4 @@ public enum Commands {
 	CONFIRMATION_GROUP_RESERVATION,
 	CHECK_ID_PASSWORD,
 	Logout,
-	
-	
 }
