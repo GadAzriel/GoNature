@@ -10,5 +10,5 @@ public enum Commands {
 	NEW_GROUP_RESERVATION,
 	CONFIRMATION_GROUP_RESERVATION,
 	CHECK_ID_PASSWORD,
-	Logout,
+	Logout,        
 }
