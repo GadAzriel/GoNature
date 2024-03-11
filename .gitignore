@@ -1,0 +1,30 @@
+/.metadata/
+# Compiled class files
+**/*.class
+
+# Log files
+**/*.log
+
+# BlueJ files
+**/*.ctxt
+
+# Mobile Development
+**/.gradle/
+**/build/
+**/captures/
+
+# IntelliJ IDEA
+**/*.iml
+**/.idea/
+**/.idea_modules/
+**/out/
+
+# Eclipse
+**/*.classpath
+**/*.project
+**/*.settings/
+**/bin/
+
+# NetBeans
+**/nbproject/
+**/build/
